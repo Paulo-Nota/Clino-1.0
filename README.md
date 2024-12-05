@@ -1,38 +1,5 @@
 # Clino 1.0
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-  - [Clinoform Analysis](#clinoform-analysis)
-  - [Graph Data Extraction](#graph-data-extraction)
-  - [Multi-Channel Profile Extraction](#multi-channel-profile-extraction)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Clone the Repository](#clone-the-repository)
-  - [Create a Virtual Environment (Recommended)](#create-a-virtual-environment-recommended)
-  - [Install Dependencies](#install-dependencies)
-- [Usage](#usage)
-  - [Launching the Application](#launching-the-application)
-  - [Clinoform Analysis Tool](#clinoform-analysis-tool)
-  - [Graph Data Extraction](#graph-data-extraction)
-  - [Multi-Channel Profile Extraction Tool](#multi-channel-profile-extraction-tool)
-- [Data Requirements](#data-requirements)
-  - [Clinoform Analysis](#clinoform-analysis-data-requirements)
-  - [Graph Data Extraction](#graph-data-extraction-data-requirements)
-  - [Profile Extraction](#profile-extraction-data-requirements)
-- [Functionality](#functionality)
-  - [Clinoform Analysis Functionality](#clinoform-analysis-functionality)
-  - [Graph Data Extraction Functionality](#graph-data-extraction-functionality)
-  - [Multi-Channel Profile Extraction Functionality](#multi-channel-profile-extraction-functionality)
-- [Plot Visualization](#plot-visualization)
-- [Logging](#logging)
-- [Exporting Results](#exporting-results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-
 ## Overview
 
 **Clino** is a comprehensive desktop application that integrates clinoform analysis, graph data extraction, and multi-channel profile extraction tools. Designed for geologists, researchers, and data analysts, Clino empowers users to efficiently import, analyze, visualize, and export geological and graphical data with ease. Leveraging Python's `tkinter` library for the user interface and powerful data processing libraries like `pandas`, `matplotlib`, and `scipy`, Clino offers a unified platform for robust data analysis and visualization.
