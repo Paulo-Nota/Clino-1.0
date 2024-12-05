@@ -1,0 +1,2 @@
+Overview
+Clino is an integrated desktop application designed for geologists, researchers, and data analysts to perform comprehensive clinoform analysis, graph data extraction, and multi-channel profile extraction. Leveraging Python's tkinter library for the user interface and powerful data processing libraries like pandas, matplotlib, and scipy, Clino offers a unified platform to import, analyze, visualize, and export geological and graphical data efficiently.
